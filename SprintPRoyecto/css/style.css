@@ -90,7 +90,7 @@ body {
 
 .accordion-flush .accordion-item .accordion-button, .accordion-flush .accordion-item .accordion-button.collapsed {
    
-    background-color: rgb(187, 187, 245) !important;
+    background-color: rgb(207, 192, 231) !important;
 }
 
 .acordiontext{
@@ -99,7 +99,7 @@ body {
 
 .accordion-body{
 
-    background-color:rgb(238, 230, 250)
+    background-color:rgb(235, 217, 238)
 
 }
 #imgchange{
